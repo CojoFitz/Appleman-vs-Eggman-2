@@ -1,0 +1,11 @@
+# Appleman-vs-Eggman-2
+A turn-based rock paper scissors game created in unity, this github repo contains some of the files, scripts, and assets utilized in the creation of this game. Unfortunately, due to copyright reasons with music utilized, some assets were left out. This project was created for a course taken at the New Jersey Institute of Technology. The files provided alone are not enough to make the game entirely playable, but are simply there to provide a brief insight towards the logic and thought process I used to make this game. If anyone finds any value of the scripts on this repo, they are free to utilize them within their own projects, as long as you notify me! An itch.io link or exe file displaying this project will be attached to this readme in the near future, to allow for it to be played.
+
+# Skills and Tools Utilized
+This program was created in unity using scripts made in C#. Inside of the scripts themselves concepts of Object Oriented Programing are utilized to help manage the complexity of the scripts themselves. The visuals were created using paint.net, however, this project is more of a "tech demo" so the quality of visual components were not of great concern. 
+
+# Game Description:
+Appleman vs Eggman Two is a two player multiplayer turn-based game which fuses elements of Roshambo (rock paper scissors) with bullet hell mechanics. In this game players can take on the role of either appleman or eggman, both of which are humanoid foods that have an everlasting feud with each other. The goal of this game is for either appleman to kill eggman, or for eggman to kill appleman. This is done through a combat system similar to roshambo, if a player loses the roshambo interaction, then they will be forced to go through a bullet hell. If the player loses the bullet hell, then they will lose health, if they survive for a set amount of time then the other player will lose health. The end goal of this game is for either appleman or eggman to destroy the other. This game garners its name from a previous project that I worked on when I was newer to programming, which offered a very similar premise, but instead was single player. Unfortunately, the environment in which the firs
+
+
+
